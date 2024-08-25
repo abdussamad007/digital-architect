@@ -1,1 +1,1 @@
-### Digital Architect Hackathon session 4 is organized by [Digital Architect Society] (https://alphaedge-therapy.com/) founded by Mr Sumit Das. 
+### Digital Architect Hackathon session 4 is organized by [Digital Architect Society](https://alphaedge-therapy.com/) founded by Mr Sumit Das.In this session 4 we had gone through 7 different missions to cover the verious aspects of Digital Transformation Architecture.
